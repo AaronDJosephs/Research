@@ -12,4 +12,4 @@ Finding a link between these two things could be valuable for a few reasons. Dis
 
 
 
-This repository will hold a text file of the survey to be taken after as well as the code of the levels to be played. At present, I expect Super Mario Bros. to be the game used. The levels will be generated using an instance of 3-SAT.
+This repository will hold a text file of the survey to be taken after as well as the code of the levels to be played. At present, I expect Super Mario Bros. to be the game used. The levels will be generated using an instance of 3-SAT. The 3-SAT repository will be used to generate the instances.
